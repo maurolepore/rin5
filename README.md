@@ -19,6 +19,6 @@ rin5 is not available from CRAN but  you can install it from github with:
 devtools::install_github("maurolepore/rin5")
 ```
 
-Read before you get too excited:
+### Read before you get too excited:
 
 **Now this package is almost empty, so the description you are reading is aspirational. rin5 may accummulate issues and if it is worthwile I will develop it.**
