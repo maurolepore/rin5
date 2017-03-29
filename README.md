@@ -2,7 +2,7 @@
 
 Researchers embrace continuous learning, but they can't waste time with unfocused learning. The goal of rin5 (r in 5) is to help busy researchers to discover useful tools in R and GitHub. rin5 packages multiple video tutorials, each shorter than 5 minutes, along with supporting files. The videos are available in YouTube; they follow and cover the entire workflow of a typical research project. The supporting files help users get what the videos show. 
 
-Most importantly, the tutorials demoonstrate tools to: 
+Most importantly, the tutorials demonstrate tools to: 
 
 - manage and track research organizations, teams and projects using GitHub,
 
